@@ -88,7 +88,7 @@ font-size: 16px;
     #introduction{
         float: left;
 text-align: justify;
-font-size: 20px;
+font-size: 16px;
 }
 #map{
     float: left;
@@ -102,7 +102,7 @@ font-size: 20px;
 .rightnormal{
     font-size: 16px;
     float: right;
-    text-align: right;
+    text-align: justify;
 }
 .fclass{
 font-size: 16px;
@@ -158,4 +158,20 @@ input[type=mail], select, textarea {
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+  }
+  .formsublink{
+    margin-top: 15 px;
+    margin-bottom: 15px;
+    font-size: 16px;
+  }
+  .header1{
+    font-size: 20px;
+  }
+  #pic4{
+        float: left;
+        height: 232px;
+    width: 256px;
+        margin: 5px;
+        opacity: 70%;
+
   }
