@@ -34,6 +34,7 @@ a {
 color: aliceblue;
 text-decoration: none;
 padding: 6px 18px 5px 18px;
+border-radius: 10px;
 }
 a:hover, a.on{
 color: #cc3333;
@@ -174,4 +175,19 @@ input[type=mail], select, textarea {
         margin: 5px;
         opacity: 70%;
 
+  }
+
+  #formbutton{
+    background-color: #cc3333;
+float: left;
+color: aliceblue;
+text-decoration: none;
+padding: 3px;
+font-size: 16px;
+border-radius: 10px;
+  }
+  #formbutton:hover{
+color: #cc3333;
+background-color: rgb(30, 37, 49);
+padding: 3 px;
   }
